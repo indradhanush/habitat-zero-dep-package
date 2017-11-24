@@ -1,5 +1,5 @@
-pkg_name=it_works
-pkg_origin=robertgzr
+pkg_name=zero-dep
+pkg_origin=schu
 pkg_version="0.1.0"
 pkg_license=('MIT')
 pkg_maintainer="Robert Günzler <robertguenzler@kinvolk.io>"
