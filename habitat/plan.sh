@@ -1,9 +1,9 @@
 pkg_name=zero-dep
-pkg_origin=schu
+pkg_origin=indradhanush
 pkg_version="0.1.0"
 pkg_license=('MIT')
 pkg_maintainer="Robert Günzler <robertguenzler@kinvolk.io>"
-pkg_upstream_url=https://github.com/robertgzr/it_works
+pkg_upstream_url=https://github.com/indradhanush/habitat-zero-dep-package
 pkg_bin_dirs=(bin)
 
 pkg_svc_run="it_works"
